@@ -9,6 +9,5 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("COMMIT 2")
-        today is a good day
     }
 }
